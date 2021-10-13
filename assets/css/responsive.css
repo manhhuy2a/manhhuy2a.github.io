@@ -1,11 +1,13 @@
 /* media PC */
-@media (min-width: 1040px) {
+@media (min-width: 64em) {
     
 }
 /* table & mobile */
-@media (max-width:1023px) {
+@media (max-width: 63.9375em) {
     .btn {
         padding: 13px 16px;
+        -webkit-animation: none;
+        appearance: none;
     }
     #nav .subnav li a {
         padding:5px 12px;
@@ -28,11 +30,11 @@
     }
 }
 /* media Table */
-@media (min-width: 740px) and (max-width: 1039px) {
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
     
 }
 /* media Mobile */
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
     .s-full-width,
     .s-col-full {
         width: 100%;
