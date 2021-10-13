@@ -66,6 +66,8 @@ html {
     border: none;
     font-size: inherit;
     line-height: inherit;
+    appearance: none;
+    -webkit-animation: none;
 }
 .btn:hover {
     background-color: #ccc;
