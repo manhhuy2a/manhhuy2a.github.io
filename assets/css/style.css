@@ -68,6 +68,7 @@ html {
     line-height: inherit;
     appearance: none;
     -webkit-appearance: none;
+    border-radius: none;
 }
 .btn:hover {
     background-color: #ccc;
