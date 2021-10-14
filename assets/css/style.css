@@ -68,6 +68,7 @@ html {
     line-height: inherit;
     -webkit-animation: none;
     appearance: none;
+    cursor: pointer;
 }
 .btn:hover {
     background-color: #ccc;
